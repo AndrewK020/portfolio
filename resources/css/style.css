@@ -1,3 +1,58 @@
-body {
+body{
     font-family: 'Roboto', sans-serif;
+    color: #1a2a3a;
+    background: #145374;
+    
+}
+a {
+    color: #f2eee0;
+}
+lu {
+    padding: 20px;
+}
+#nav {
+    background: #222831;
+}
+#main {
+    background: #eeeeee;
+    width: 100%;
+    height: 3000px;
+    border-radius: 25px;
+    margin-top: 7%;
+}
+h6 {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+}
+h4 {
+    padding-top: 100px;
+}
+
+#bioPg {
+    padding-top: 100px;
+}
+#project {
+    border-radius: 10px;
+    background: #00334e;
+    width: 60%;
+    height: 50px;
+    text-align: center;
+    padding-top: 12px;
+    margin-top: 20px;
+}
+.pLink {
+    color: #dddddd;
+}
+
+.iconLink {
+    font-size: 100px;
+    color: #1a2a3a
+}
+.fab {
+    padding: 50px;
+}
+.title {
+    font-size: 18px;
+    padding-top: 40px;
 }
